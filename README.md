@@ -35,4 +35,5 @@ Bitcoin has emerged as a popular cryptocurrency, and its price movements attract
 
 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-purple.svg)
-![Python](https://img.shields.io/badge/python-green.svg)![Web Scraping](https://img.shields.io/badge/Web-Scraping-blue.svg)
+![Python](https://img.shields.io/badge/python-green.svg)
+![Web Scraping](https://img.shields.io/badge/Web-Scraping-blue.svg)
