@@ -29,7 +29,6 @@ Bitcoin has emerged as a popular cryptocurrency, and its price movements attract
 
     Predict the Bitcoin price for tomorrow using the trained LSTM model, enabling forecast future price trends.
 
-test
 
 ## Badges
 
